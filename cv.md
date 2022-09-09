@@ -27,6 +27,11 @@ function checkStorage(available, ordered) {
   return message;
 }
 ```
+## Courses:
+RS School Course «JavaScript/Front-end» (in progress)
+## Languages:
+* English - Intermediate;
+* Ukrainian - Native
 
 
 
