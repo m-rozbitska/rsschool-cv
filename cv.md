@@ -6,11 +6,11 @@
 ## About myself:
 I'm journalist now, it's interesting job, but I want to change profession. I'm interested in programming. So, now I'm learning HTML, CSS & JS in RS School.
 ## Skills:
-* HTML, CSS - basic;
-* JS - basic;
-* Git, GitHub - basic;
-* VS Code - basic;
-* Figma, Avocode - basic.
+* HTML, CSS, Markdown
+* JS 
+* Git, GitHub 
+* VS Code 
+* Figma, Avocode 
 ## Code example:
 ``` 
 function checkStorage(available, ordered) {
@@ -31,7 +31,8 @@ function checkStorage(available, ordered) {
 RS School Course «JavaScript/Front-end» (in progress)
 ## Languages:
 * English - Intermediate;
-* Ukrainian - Native
+* Ukrainian - Native 
+
 
 
 
