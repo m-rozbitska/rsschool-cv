@@ -22,3 +22,23 @@ a{
 	color: inherit;
 }
 
+.container{
+	max-width: 1220px;
+	margin: 0 auto;
+	padding: 0 10px;
+}
+
+.general__content{
+	display: flex;
+	justify-content: space-between;
+}
+
+.general__img{
+	width: 250px;
+  height: 250px;
+	border-radius: 50%;
+	overflow: hidden;
+
+	
+}
+
