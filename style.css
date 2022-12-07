@@ -1,40 +1,24 @@
-* {
-	margin: 0;
-	padding: 0;
+html{
 	box-sizing: border-box;
-	}
+}
+*,
+*::after,
+*::before{
+	box-sizing: inherit;
+}
+
+body{
+	background:  #969;
+	font-size: 16px;
+	line-height: 120%;
+	font-weight: 400;
+	color: #000;
+	font-family: 'Roboto Condensed', sans-serif;
 	
-body {
-	background-color:palegreen;
-	padding: 40px;
 }
 
-.general {
-	display: flex;
+a{
+	text-decoration: none;
+	color: inherit;
 }
 
-.aside {
-	width: 400px;
-	height: 100px;
-	padding-top: 30px;
-	padding-bottom: 30px;
-
-}
-
-.photo {
-	width: 400px;
-}
-
-.info{
-	padding-left: 70px;
-	padding-right: 70px;
-	padding-top: 100px;
-	padding-bottom: 100px;
-
-}
-
-.aside__contacts {
-	margin-top: 50px;
-	margin-left: 45px;
-	margin-right: 45px;
-}
